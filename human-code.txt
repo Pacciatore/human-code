@@ -23,7 +23,7 @@ ALLORA
     ALLORA 
         Butto il cartone
 
-    SE avanza una fetta
+    SE avanza solo una fetta
 
     ALLORA 
         prendo un piatto
